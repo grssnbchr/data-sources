@@ -6,7 +6,7 @@ A non-exhaustive, opiniated list of data sources for journalistic endeavours wit
 
 ### OGD
 
-* [opendata.swiss](https://opendata.swiss)
+* [opendata.swiss](https://opendata.swiss) – Swiss Federal Data Portal
 * [Open Data Stadt Zürich](https://data.stadt-zuerich.ch/)
 * [EU Open Data](https://open-data.europa.eu)
 
@@ -21,6 +21,12 @@ A non-exhaustive, opiniated list of data sources for journalistic endeavours wit
 
 * [Federal Statistical Office](https://www.bfs.admin.ch/bfs/de/home.html)
 * [Statistical Office of the Canton of Zurich](https://statistik.zh.ch/internet/justiz_inneres/statistik/de/daten.html)
+
+## Various
+
+* [Wikidata](https://www.wikidata.org/wiki/Wikidata)
+* [OECD Data on Switzerland (and other countries)](https://data.oecd.org/switzerland.htm)
+* [Gapminder](https://www.gapminder.org/) – internationally comparable data on development and economy
 
 ## Inspiration / Leads to other Data Sources
 
