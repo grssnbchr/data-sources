@@ -27,6 +27,7 @@ A non-exhaustive, opiniated list of data sources for journalistic endeavours wit
 * [Wikidata](https://www.wikidata.org/wiki/Wikidata)
 * [OECD Data on Switzerland (and other countries)](https://data.oecd.org/switzerland.htm)
 * [Gapminder](https://www.gapminder.org/) – internationally comparable data on development and economy
+* [Data from 538.com](https://data.fivethirtyeight.com/) 
 
 ## Inspiration / Leads to other Data Sources
 
